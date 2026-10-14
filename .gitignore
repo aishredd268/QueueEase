@@ -1,0 +1,9 @@
+.env
+node_modules/
+target/
+.idea/
+.vscode/
+uploads/
+*.log
+.DS_Store
+application-local.properties

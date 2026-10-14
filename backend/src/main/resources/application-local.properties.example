@@ -1,0 +1,8 @@
+# Copy this file to application-local.properties (it is git-ignored) and fill in your values.
+spring.datasource.password=YOUR_POSTGRES_PASSWORD
+app.jwt.secret=put-a-long-random-secret-of-at-least-32-characters-here
+
+# Staff login that is created automatically on first start (log in with this username + password)
+app.staff.username=staff
+app.staff.password=choose-a-strong-staff-password
+
